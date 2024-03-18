@@ -1,0 +1,188 @@
+/* *{
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 100;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/kanit/v15/nKKX-Go6G5tXcr72KxaAcJxA.woff2) format('woff2');
+        unicode-range: U+0E01-0E5B, U+200C-200D, U+25CC;
+} */
+
+/* navbar  */
+
+.nav-alert h6{
+    font-size: 15px;
+    font-weight: 400;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav-alert span{
+    font-weight: 800;
+}
+
+
+/* collections  */
+.collection-heading {
+    font-size: 18px;
+    /* font-weight: 200; */
+    padding: 10px;
+    font-family: 'Kanit';
+}
+.container{
+    position: relative;
+    width: 100%;
+}
+.container button{
+    position: absolute;
+    top: 75%;
+    left: 8%;
+    border: 7px solid transparent;
+    border-radius: 7px;
+    background-color: rgb(109, 191, 162);
+    color: white;
+    font-size:15px;
+    font-weight: 700;
+    letter-spacing: .2rem;
+}
+.container h1{
+    position: absolute;
+    top: 63%;
+    left: 8%;
+    color: white;
+    font-weight: 330;
+    font-size: 26px;
+}
+
+
+/* bedding section  */
+
+.bedding-heading p{
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 350;
+    letter-spacing: 0.1rem;
+}
+.bedding-heading h1{
+    font-size: 44px;
+    font-weight: 350;
+    margin-bottom: 60px;
+}
+
+.bedding-carts .container h5{
+    font-size: 16px;
+    font-weight: 490;
+}
+.bedding-carts .container p{
+    color: red;
+    font-size: 18px;
+    font-weight: 450;
+}
+.stars{
+    display: flex;
+    justify-content: center;
+}
+.stars h6{
+    font-weight: 200;
+    font-size: 13px;
+}
+
+
+.view-all button{ 
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+
+
+
+/* lighting section  */
+
+.lighting-heading p{
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 350;
+    letter-spacing: 0.1rem;
+}
+.lighting-heading h1{
+    font-size: 44px;
+    font-weight: 350;
+    margin-bottom: 60px;
+}
+
+
+
+/* dining section  */
+
+.dining-heading p{
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 350;
+    letter-spacing: 0.1rem;
+}
+.dining-heading h1{
+    font-size: 44px;
+    font-weight: 350;
+    margin-bottom: 60px;
+}
+
+
+
+/* area_rugs section  */
+
+.rugs-heading p{
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 350;
+    letter-spacing: 0.1rem;
+}
+.rugs-heading h1{
+    font-size: 44px;
+    font-weight: 350;
+    margin-bottom: 60px;
+}
+
+.area_rugs-container .card-body p{
+    color: red;
+}
+
+
+ 
+.button-VIEW button{
+    margin-top: 115px;
+    margin-left: 40px;
+}
+
+ 
+.button-product button{
+    margin-top: 170px;
+    margin-left: 480px;
+}
+
+
+.button-dining button{
+    margin-top: 130px;
+    margin-left: 480px;
+    
+}
+
+
+.button-lighting button {
+    margin-top: 100px;
+    margin-left: 480px;
+}
+
+
+
+.button-beding button{
+    margin-top: 345px;
+    margin-left: 480px;
+    
+}
+
+
+ 
+.last-button button{
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 200px;
+}
